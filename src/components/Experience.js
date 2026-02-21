@@ -12,6 +12,16 @@ const Experience = () => {
         'Integrated Room, DataStore, and REST APIs for local and remote data sync',
         'Handled navigation and background jobs using Jetpack libraries'
       ]
+    },
+    {
+      title: 'Frontend Developer Intern',
+      company: 'Clinchstack',
+      period: 'Jun 2025 – Jul 2025',
+      description: [
+        'Developed responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and React',
+        'Implemented reusable components and state management to improve performance and maintainability',
+        'Collaborated with designers and backend developers to integrate APIs and enhance UI/UX'
+      ]
     }
   ];
 
@@ -45,4 +55,3 @@ const Experience = () => {
 };
 
 export default Experience;
-

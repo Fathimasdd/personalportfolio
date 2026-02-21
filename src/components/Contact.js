@@ -27,8 +27,8 @@ const Contact = () => {
     {
       icon: '📧',
       label: 'Email',
-      value: 'ashraf fathima@srmap.edu.in',
-      link: 'mailto:ashraf fathima@srmap.edu.in'
+      value: 'ashraffathima0805@gmail.com',
+      link: 'mailto:ashraffathima0805@gmail.com'
     },
     {
       icon: '📱',

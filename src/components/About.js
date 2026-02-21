@@ -9,7 +9,7 @@ const About = () => {
         <div className="about-text">
           <p className="about-description">
             I'm a passionate <span className="highlight">Software Development Engineer</span> and 
-            <span className="highlight"> Frontend Developer</span> with a strong foundation in building 
+            <span className="highlight"> Full Stack Developer </span> with a strong foundation in building 
             scalable web applications. I love creating beautiful, user-friendly interfaces and solving 
             complex problems through code.
           </p>

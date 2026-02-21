@@ -7,7 +7,7 @@ const Education = () => {
       degree: 'B.Tech. in Computer Science',
       institution: 'SRM University, AP',
       period: '2022 – 2026',
-      gpa: 'GPA: 8.88/10.0',
+      gpa: 'GPA: 8.97/10.0',
       details: 'Pursuing Bachelor of Technology with focus on software development, algorithms, and modern web technologies.'
     },
     {
